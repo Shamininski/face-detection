@@ -1,2 +1,2 @@
 # face-detection
-A Real Time Face Detection Implementation using JavaScript
+An AI Real-Time Face Detection Implementation using JavaScript
